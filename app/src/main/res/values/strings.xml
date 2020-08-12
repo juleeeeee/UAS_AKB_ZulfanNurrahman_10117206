@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UAS AKB</string>
+
+    <string name="navigation_drawer_open">Open Nav Drawer</string>
+    <string name="navigation_drawer_close">Close Nav Drawer</string>
+
+    <string name="nim">10117206</string>
+    <string name="nama">Zulfan Nurrahman</string>
+    <string name="kelas">Informatika 7</string>
+    <string name="univ">Universitas Komputer Indonesia</string>
+    <string name="deskripsi">Saya merupakan mahasiswa dari Universitas Komputer Indonesia yang berada pada bidang Teknik Informatika.</string>
+    <string name="hobi">Hobi saya rebahan, karena sewaktu kecil saya terlalu banyak gerak.</string>
+
+    <string name="whatsapp">(+62) 8122-2179-661</string>
+    <string name="email">zulfann2299@gmail.com</string>
+    <string name="fb">Zulfan Nurrahman</string>
+    <string name="line">zulfann22</string>
+    <string name="insta">zulfann22</string>
+    <string name="twitter">zulfann22</string>
+
+    <string name="menu_profile">My Profile</string>
+    <string name="menu_wisata">Wisata</string>
+
+    <string name="desc">Gedung ini adalah sebuah bangunan bersejarah yang ada di pusat kota Bandung. Disebut sebagai Gedung Sate karena gedung ini mempunyai ciri khas yang unik, yaitu ornamen 6 tusuk sate yang ada di atas menara sentral. 6 tusuk sate ini melambangkan 6 juta Gulden yang dipakai untuk membangun gedung berwarna putih ini pada masanya. Gedung ini sangat terkenal tidak hanya di kota Bandung saja, melainkan juga sudah terkenal di Jawa Barat dan Indonesia.</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
